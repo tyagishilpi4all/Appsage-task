@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.home{
+    height: 900px;
+    width: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+#nav{
+    /* background-color: wheat; */
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_child1{
+    height: 50px;
+    width: 100px;
+}
+.nav_child2{
+    height: 50px;
+    width: 80%;
+}

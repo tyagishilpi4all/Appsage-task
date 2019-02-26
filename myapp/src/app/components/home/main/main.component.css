@@ -1,0 +1,32 @@
+.container-fluid{
+    width: 90%;
+    margin-top: 50px;
+}
+#main_parent{
+    height: 240px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.main_child{
+    background-color: tan;
+    height: 240px;
+    width: 19%;
+    border-radius: 10px 10px 10px 10px;
+}
+.main_child h1{
+    text-align: center;
+    margin-top: -161px;
+    color: white;
+}
+.main_child p{
+     text-align: center;
+     color: white;
+     font-size: 20px;
+}
+.main_child img{
+    width: 100%;
+    height: 240px;
+    border-radius: 10px 10px 10px 10px;
+}

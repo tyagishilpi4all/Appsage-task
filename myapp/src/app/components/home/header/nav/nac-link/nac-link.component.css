@@ -1,0 +1,18 @@
+#nav_link{
+    /* background-color: tomato; */
+    height: 50px;
+    width: 100%;
+    margin-top: -16px;
+}
+#nav_link ul{
+   list-style: none;
+   padding-top: 9px;
+}
+#nav_link ul li{
+    display: inline-block;
+    padding: 15px;
+    color: silver;
+}
+#nav_link ul li a{
+    text-decoration: none;
+}

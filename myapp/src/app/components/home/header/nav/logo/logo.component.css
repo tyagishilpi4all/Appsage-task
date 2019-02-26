@@ -1,0 +1,10 @@
+#logo{
+    /* background-color: thistle; */
+    height: 50px;
+    width: 80px;
+    margin-left: 25px;
+}
+#logo img{
+    height: 50px;
+    width: 80px;
+}

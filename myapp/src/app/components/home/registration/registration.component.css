@@ -1,0 +1,32 @@
+
+.container{
+    height: 1000px;
+}
+.container h2{
+    margin-left:410px;
+}
+.form{
+    /* background-color: thistle; */
+    height: 900px;
+    width: 50%;
+    position: absolute;
+    left: 410px;
+    top: 500px;
+    border: 2px solid red;
+}
+.form label{
+    margin-left:100px;
+    margin-top: 40px;
+}
+.form input{
+    margin-left:100px;
+    margin-top: 20px;
+}
+.form button{
+    margin-left:100px;
+    margin-top: 10px;
+}
+.form span{
+    margin-left:100px;
+    cursor:pointer;
+}

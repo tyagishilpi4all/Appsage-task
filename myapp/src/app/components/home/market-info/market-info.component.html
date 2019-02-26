@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <div class="row" id="market_info"> 
+        <div class="c0l-sm-3 market_info_child" *ngFor="let demo of temp">
+            <div class="market_img">
+                <img [src]="image" />
+                Min order:
+                <span class="span1">
+                    {{demo.price}}
+                </span>
+            </div>
+            <div class="parent_2">
+                <span class="add">Address</span>
+                <span class="span2">{{demo.address}}</span>
+                <span class="business">Business-hours</span>
+                <span class="span3">{{demo.businessHours}}</span>
+            </div>
+            <div class="parent_3">
+                <span>{{demo.phone}}</span>
+                <span>{{demo.status}}</span>
+            </div>
+        </div>
+    </div>
+</div>

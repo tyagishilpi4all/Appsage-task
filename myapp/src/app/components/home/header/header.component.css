@@ -1,0 +1,16 @@
+#header{
+    background-color: white;
+    height: 50px;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+.child_1{
+    height: 50px;
+    width: 45%
+}
+.child_2{
+    /* background-color: tomato; */
+    height: 50px;
+    width: 35%
+}
